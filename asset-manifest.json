@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/ip-address-tracker-app/static/js/main.b6a4b189.chunk.js",
+    "main.js.map": "/ip-address-tracker-app/static/js/main.b6a4b189.chunk.js.map",
+    "runtime-main.js": "/ip-address-tracker-app/static/js/runtime-main.65614bf7.js",
+    "runtime-main.js.map": "/ip-address-tracker-app/static/js/runtime-main.65614bf7.js.map",
+    "static/css/2.c1e28d34.chunk.css": "/ip-address-tracker-app/static/css/2.c1e28d34.chunk.css",
+    "static/js/2.6ce021ce.chunk.js": "/ip-address-tracker-app/static/js/2.6ce021ce.chunk.js",
+    "static/js/2.6ce021ce.chunk.js.map": "/ip-address-tracker-app/static/js/2.6ce021ce.chunk.js.map",
+    "index.html": "/ip-address-tracker-app/index.html",
+    "static/css/2.c1e28d34.chunk.css.map": "/ip-address-tracker-app/static/css/2.c1e28d34.chunk.css.map",
+    "static/js/2.6ce021ce.chunk.js.LICENSE.txt": "/ip-address-tracker-app/static/js/2.6ce021ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65614bf7.js",
+    "static/css/2.c1e28d34.chunk.css",
+    "static/js/2.6ce021ce.chunk.js",
+    "static/js/main.b6a4b189.chunk.js"
+  ]
+}
